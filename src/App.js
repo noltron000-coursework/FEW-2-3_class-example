@@ -9,7 +9,7 @@ class App extends Component {
 		return (
 			<div className="App">
 				<header className="App-header">
-					<Title title='hello' />
+					<Title title='hello' something='else' />
 					<Clock />
 					<img src={logo} className="App-logo" alt="logo" />
 					<p>
